@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedro Ramaciotti Morales"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Pedro Ramaciotti Morales"
 description              : &description "Pedro Ramaciotti Morales's personal webpage"
@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Pedro Ramaciotti Morales"
   avatar           : "faceshots/cara_medusa.png"
-  bio              : "Research Scientist \n@Médialab\nSciences Po"
+  position         : "Research Scientist"
+  department       : "@ Médialab"
+  institution      : "Sciences Po"
+  bio              : "Research Scientist @Médialab <br> Sciences Po"
   location         : "Paris-Santiago"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
