@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Embedding Social Networks in Ideological Space"
+excerpt: "Inferring latent ideological features for entities in social networks allows for their positioning in ideological spaces with interpretations computed form external data<br/><img src='/images/gallery/IS_view_MPs_Parties_Followers.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Inferring latent ideological features for entities in social networks allows for their positioning in ideological spaces with interpretations computed form external data. In the figure from the example, this is performed for the Twitter network in France.
+
+<img src='/images/gallery/IS_view_MPs_Parties_Followers.png'>
