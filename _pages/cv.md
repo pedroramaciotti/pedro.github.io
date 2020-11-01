@@ -11,36 +11,77 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering Degree, P. Universidad Católica de Chile, 2009
+* M.S. in Applied Mathematics, École Polytechnique, Paris-Saclay University, 2013
+* Ph.D. in Applied Mathematics, École Polytechnique, Paris-Saclay University, 2016
 
-Work experience
+Academic Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2000-ongoing: Research Scientist
+  * Médialab, Sciences Po (Paris, France)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Associate Researcher
+  * Centre for European Studies and Compared Politics, Sciences Po (Paris, France)
+
+* 2019: Research Consultant
+  * Organisation for Economic Co-operation and Development, OECD (Paris, France)
+
+* 2017-2019: Postdoctoral Reseach Fellow
+  * Computer Sciences Department, Sorbonne University (Paris, France)
+  * Complex Networks Team
+
+* 2013-2017: Doctoral Research Fellow
+  * Centre de Mathématiques Appliquées (CMAP), École Polytechnique, Université Paris-Saclay (Paris, France)
   
-Skills
+* 2012-2019: Associate Researcher<br>2010-2012: R&D Project Manager
+  * INGMAT S.A., R&D Unit-146, Corporation for the Promotion of Production (Chilean Ministry of Economics)
+
+* 2009-2010: Research Engineer
+  * Engineering Department, P. Universidad Católica de Chile (Santiago, Chile)
+
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+### Articles in proceedings of peer-reviewed conferences
+
+  * Ramaciotti Morales, P., Lamarche-Perrin, R., Fournier-S'niehotta, R., Poulain, R., Tabourier, L. and Tarissan, F. "Measuring Diversity in Heterogeneous Information Networks." arXiv preprint arXiv:2001.01296 (2020). 
+  [<a href="{{site.baseurl}}/files/publications/2020_tcs.pdf">Preprint submitted to Theoretical Computer Science Journal</a>]
+  * Cointet, J.-P., Froio, C., and Ramaciotti Morales, P. (alphabetically). "Posters and Protesters: Onsite Participation and Facebook Activity in the Yellow Vests Movement in France". [<a href="{{site.baseurl}}/files/publications/2020_YellowVestsNM&S.pdf">Preprint submitted to New Media & Society Journal</a>]
+  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). [<a href="{{site.baseurl}}/files/publications/2020_S&S_atlas_gj.pdf">Preprint submitted to Statistiques et Société Journal</a>]
+  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ?
+Plonger des publications Facebook dans un espace idéologique latent"). [<a href="{{site.baseurl}}/files/publications/2020_S&S_ideologie_gj.pdf">Preprint submitted to Statistiques et Société Journal</a>]
+
+### Articles in proceedings of peer-reviewed conferences
+
+  * Ramaciotti Morales, P., Cointet J.-P., and Laborde, J. "Your most telling friends: Propagating latent ideological features on Twitter using neighborhood coherence" In 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2020). [<a href="{{site.baseurl}}/files/publications/2020_ASONAM_SHORT_CRsubmitted.pdf">article</a>] [<a href="{{site.baseurl}}/files/publications/2020_asonam_twitter_long.pdf">longer version</a>]
+  * Ramaciotti Morales, P., Tabourier, L., and Fournier-S'niehotta, R. "Testing the Impact of Semantics and Structure on Recommendation Accuracy and Diversity" In 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2020). [<a href="{{site.baseurl}}/files/publications/2020_RSDiv_ASONAM_CRsubmitted.pdf">article</a>]
+  * Ramaciotti Morales, Pedro, Lionel Tabourier, Sylvain Ung, and Christophe Prieur. "Role of the website structure in the diversity of browsing behaviors." In Proceedings of the 30th ACM Conference on Hypertext and Social Media, pp. 133-142. 2019. [<a href="{{site.baseurl}}/files/publications/2019_role_of_diversity_hypertext.pdf">article</a>]
+  * Ramaciotti, Pedro, Mario Duran, and Ricardo Hein. "Subsurface reflectivity reconstruction schemas for a holographic airborne GPR using surface geometry data." In 2015 8th International Workshop on Advanced Ground Penetrating Radar (IWAGPR), pp. 1-4. IEEE, 2015.[<a href="{{site.baseurl}}/files/publications/2015_reflectivity_reconstruction_schemas.pdf">article</a>]
+
+### Articles published in peer-reviewed journals
+
+  * Ramaciotti, Pedro, and Jean-Claude Nédélec. "About some boundary integral operators on the unit disk related to the Laplace equation." SIAM Journal on Numerical Analysis 55, no. 4 (2017): 1892-1914. [<a href="{{site.baseurl}}/files/publications/2017_about_some_integral_operators.pdf">article</a>]
+  * Escarate, P., R. Hein, M. Duran, and P. Ramaciotti. "X-ray fluorescence spectroscopy for accurate copper estimation." Minerals Engineering 71 (2015): 13-15. [<a href="{{site.baseurl}}/files/publications/2015_x_ray_espectroscopy.pdf">article</a>]
+  * Pérez-Arancibia, Carlos, Pedro Ramaciotti, Ricardo Hein, and Mario Durán. "Fast multipole boundary element method for the Laplace equation in a locally perturbed half-plane with a Robin boundary condition." Computer methods in applied mechanics and engineering 233 (2012): 152-163. [<a href="{{site.baseurl}}/files/publications/2012_fast_multipole_methods_Laplace_robin.pdf">article</a>]
+
+### Patents
+
+  * Toro, Mario Manuel Duran, Ricardo Oliver Hein Hoering, Pedro Ramaciotti Morales, and Pedro Antonio Escárate Monetta. "Method and system for in situ, continuous and real-time analysis of mineral content in drilling debris." U.S. Patent 9,394,786, issued July 19, 2016.  [<a href="{{site.baseurl}}/files/publications/2016_patent_US9394786.pdf">PatentDocs</a>]
+
+### Short articles accepted for peer-reviewed conferences
+
+  * Ramaciotti Morales, Pedro, Benbouzid, Bilel, Gauthier, Emma, Perrier, Alexis. "The Effects of Disaggregated Factors of YouTube Recommendations in Diversity." 6th International Conference on Computational Social Science IC2S2, 2020. [<a href="{{site.baseurl}}/files/publications/2020_ic2s2_youtube.pdf">article</a>]
+
   
 Talks
 ======
@@ -54,6 +95,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
