@@ -1,5 +1,5 @@
 ---
-title: "Advanced Network Analysis (Master's Program, Lecturer)"
+title: "Advanced Network Analysis (Lecturer, Master's Program)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2020-spring-network-analysis
