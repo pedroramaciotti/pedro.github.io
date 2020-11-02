@@ -12,9 +12,8 @@ author_profile: true
   * Ramaciotti Morales, P., Lamarche-Perrin, R., Fournier-S'niehotta, R., Poulain, R., Tabourier, L. and Tarissan, F. "Measuring Diversity in Heterogeneous Information Networks." arXiv preprint arXiv:2001.01296 (2020). 
   [<a href="{{site.baseurl}}/files/publications/2020_tcs.pdf">Preprint submitted to Theoretical Computer Science Journal</a>]
   * Cointet, Jean-Philippe, Froio, Caterina, and Ramaciotti Morales, Pedro. "Posters and Protesters: Onsite Participation and Facebook Activity in the Yellow Vests Movement in France". [<a href="{{site.baseurl}}/files/publications/2020_YellowVestsNM&S.pdf">Preprint submitted to New Media & Society Journal</a>]
-  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). [<a href="{{site.baseurl}}/files/publications/2020_S&S_atlas_gj.pdf">Preprint submitted to Statistiques et Société Journal</a>]
-  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ?
-Plonger des publications Facebook dans un espace idéologique latent"). [<a href="{{site.baseurl}}/files/publications/2020_S&S_ideologie_gj.pdf">Preprint submitted to Statistiques et Société Journal</a>]
+  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). 
+  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). 
 
 ## Articles in proceedings of peer-reviewed conferences
 
