@@ -1,5 +1,5 @@
 ---
-title: "Embedding Social Networks in Ideological Space"
+title: "Embedding Social Networks in Ideological Spaces"
 excerpt: "Inferring latent ideological features for entities in social networks allows for their positioning in ideological spaces with interpretations computed form external data<br/><img src='/images/gallery/IS_view_MPs_Parties_Followers.png'>"
 collection: portfolio
 ---
