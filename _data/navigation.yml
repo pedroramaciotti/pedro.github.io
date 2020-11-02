@@ -22,8 +22,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Gallery"
-    url: /portfolio/
+  #- title: "Gallery"
+  #  url: /portfolio/
     
   #- title: "Guide"
   #  url: /markdown/
