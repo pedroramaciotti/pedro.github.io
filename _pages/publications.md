@@ -17,6 +17,7 @@ author_profile: true
   * Ramaciotti Morales, P., Lamarche-Perrin, R., Fournier-S'niehotta, R., Poulain, R., Tabourier, L. and Tarissan, F. "Measuring Diversity in Heterogeneous Information Networks." arXiv preprint arXiv:2001.01296 (2020). 
   [<a href="{{site.baseurl}}/files/publications/2020_tcs.pdf">Preprint submitted to Theoretical Computer Science Journal</a>]
   * Cointet, Jean-Philippe, Froio, Caterina, and Ramaciotti Morales, Pedro. "Posters and Protesters: Onsite Participation and Facebook Activity in the Yellow Vests Movement in France". [<a href="{{site.baseurl}}/files/publications/2020_YellowVestsNM&S.pdf">Preprint submitted to New Media & Society Journal</a>]
+  * Benbouzid, Bilel, Gauthier, Emma, Ramaciotti Morales, Pedro, Roudier, Bertrand, Venturini, Tommaso. "Le cadran de la visibilité de la sphère médiatique et politique sur YouTube: les effets de la recommandation algorithmique et manuelle". Submitted to Réseaux Journal.
 
 ## Articles in proceedings of peer-reviewed conferences
 
