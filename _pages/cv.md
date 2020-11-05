@@ -54,8 +54,8 @@ Publications
 
 ## Articles accepted, pending publication
 
-  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes").
-  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent").
+  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). Statistique et Société, 2020.
+  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). Statistique et Société, 2020.
 
 
 ## Articles submitted, pending revision
