@@ -17,7 +17,7 @@ Education
 
 Academic Appointments
 ======
-* 2000-ongoing: Research Scientist
+* 2020-ongoing: Research Scientist
   * Médialab, Sciences Po (Paris, France)
 
 * 2020: Associate Researcher
