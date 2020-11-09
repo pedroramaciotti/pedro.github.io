@@ -13,6 +13,8 @@ main:
   - title: "Code"
     url: /code/ 
 
+
+
   - title: "Projects"
     url: /projects/    
 
@@ -21,6 +23,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Jobs"
+    url: /jobs/ 
 
   #- title: "Gallery"
   #  url: /portfolio/
