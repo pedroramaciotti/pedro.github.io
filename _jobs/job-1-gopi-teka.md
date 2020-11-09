@@ -1,6 +1,6 @@
 ---
 title: "Data Scientist / Research Engineer @ Médialab, Sciences Po"
-excerpt: "􏰣􏰤􏰞(Nov 1st, 2020) The médialab @ Sciences Po is hiring a research engineer to work on the analysis the French media ecosystem"
+excerpt: "􏰣􏰤􏰞(Nov 1st, 2020) The médialab @ Sciences Po is hiring a research engineer to work on the analysis the French media ecosystem. Keywords: social network analysis, polarization, echo chambers, filter bubbles."
 collection: jobs
 ---
 
