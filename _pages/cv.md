@@ -34,14 +34,14 @@ Academic Appointments
   * Centre de Mathématiques Appliquées (CMAP), École Polytechnique, Université Paris-Saclay (Paris, France)
   
 * 2012-2019: Associate Researcher<br>2010-2012: R&D Project Manager
-  * INGMAT S.A., R&D Unit-146, Corporation for the Promotion of Production (Chilean Ministry of Economics)
+  * INGMAT S.A., R&D Unit-146 of the Corporation for the Promotion of Production (CORFO, Chilean Ministry of Economics)
 
 * 2009-2010: Research Engineer
   * Engineering Department, P. Universidad Católica de Chile (Santiago, Chile)
 
 Projects
 ======
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
