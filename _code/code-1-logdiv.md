@@ -1,6 +1,6 @@
 ---
 title: "LogDiv"
-excerpt: "Computing diversity in transaction logs of user browsing in graphs<br><img src='codes/logdiv.png'>"
+excerpt: "Computing browsing diversity in transaction logs of users navigating graphs<br><img src='codes/logdiv.png' width='300' height='300'>"
 repository: "https://github.com/pedroramaciotti/diversity-patterns"
 collection: code
 ---
