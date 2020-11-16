@@ -9,8 +9,8 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.code %}
+{% assign codes = site.code | reverse %}
+{% for post in codes %}
   {% include archive-single.html %}
 {% endfor %}
 
