@@ -1,5 +1,5 @@
 ---
-title: "Dynamical Systems (Lecturer, Bachelor's Program)"
+title: "Modeling and Simulation of Complex Systems (Lecturer, Bachelor's Program)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2019-autumn-dynamical-systems

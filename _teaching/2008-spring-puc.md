@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Methods in Engineering (Teaching Assistant, Master's Program)"
+title: "Numerical Methods and Applied Mathematics in Engineering (Teaching Assistant, Master's Program)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2008-spring-puc

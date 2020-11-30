@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Methods in Engineering (Lecturer, Master's Program)"
+title: "Numerical Methods and Applied Mathematics in Engineering (Lecturer, Master's Program)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2009-spring-numerical-methods
