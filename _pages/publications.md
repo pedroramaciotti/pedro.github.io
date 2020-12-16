@@ -9,8 +9,8 @@ author_profile: true
 
 ## Articles accepted, pending publication
 
-  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). Statistique et Société, 2020.
-  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). Statistique et Société, 2020.
+  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). Statistique et Société, 2021.[<a href="{{site.baseurl}}/files/publications/2021_CR__Atlas_Multi_Plateforme_d_un_Mouvement_Social__Le_cas_des_Gilets_Jaunes.pdf">article</a>]
+  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). Statistique et Société, 2021.[<a href="{{site.baseurl}}/files/publications/2021_CR__De_quelle_s__couleur_s__sont_les_gilets_jaunes___Plonger_des_publications_Facebook_dans_un_espace_id_ologique_latent.pdf">article</a>]
 
 ## Articles submitted, pending revision
 
