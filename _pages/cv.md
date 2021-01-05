@@ -54,14 +54,14 @@ Publications
 
 ## Articles accepted, pending publication
 
+  * Ramaciotti Morales, P., Lamarche-Perrin, R., Fournier-S'niehotta, R., Poulain, R., Tabourier, L. and Tarissan, F. "Measuring Diversity in Heterogeneous Information Networks." Theoretical Computer Science, 2021. 
+  [<a href="{{site.baseurl}}/files/publications/2020_tcs.pdf">preprint</a>]
   * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). Statistique et Société, 2020.
   * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). Statistique et Société, 2020.
 
 
 ## Articles submitted, pending revision
 
-  * Ramaciotti Morales, P., Lamarche-Perrin, R., Fournier-S'niehotta, R., Poulain, R., Tabourier, L. and Tarissan, F. "Measuring Diversity in Heterogeneous Information Networks." arXiv preprint arXiv:2001.01296 (2020). 
-  [<a href="{{site.baseurl}}/files/publications/2020_tcs.pdf">Preprint submitted to Theoretical Computer Science Journal</a>]
   * Cointet, J.-P., Froio, C., and Ramaciotti Morales, P. (alphabetically). "Posters and Protesters: Onsite Participation and Facebook Activity in the Yellow Vests Movement in France". [<a href="{{site.baseurl}}/files/publications/2020_YellowVestsNM&S.pdf">Preprint submitted to New Media & Society Journal</a>]
   * Benbouzid, Bilel, Gauthier, Emma, Ramaciotti Morales, Pedro, Roudier, Bertrand, Venturini, Tommaso. "Le cadran de la visibilité de la sphère médiatique et politique sur YouTube: les effets de la recommandation algorithmique et manuelle". Submitted to Réseaux Journal.
 
