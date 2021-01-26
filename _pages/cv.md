@@ -54,8 +54,8 @@ Publications
 
 ## Articles accepted, pending publication
 
-  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). Statistique et Société, 2020.
-  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). Statistique et Société, 2020.
+  * Ramaciotti Morales, P., Cointet, J.-P., Benbouzid, B., Cardon, D., Froio, C., Metin, O.-F., Ooghe Tabanou, B., Plique, G. "Multi-platform atlas of a social movement: the Yellow Vests in France" ("Atlas Multi-Plateforme d’un Mouvement Social: Le cas des Gilets Jaunes"). Statistique et Société, 2021.[<a href="{{site.baseurl}}/files/publications/2021_CR__Atlas_Multi_Plateforme_d_un_Mouvement_Social__Le_cas_des_Gilets_Jaunes.pdf">article</a>]
+  * Cointet, J.-P., Ramaciotti Morales, P., Cardon, D., Froio, C., Mogoutov, A.,  Ooghe Tabanou, B., Plique, G. "What color are the Yellow Vests? Embedding Facebook posts in latent ideological spaces" ("De quelle(s) couleur(s) sont les gilets jaunes ? Plonger des publications Facebook dans un espace idéologique latent"). Statistique et Société, 2021. [<a href="{{site.baseurl}}/files/publications/2021_CR__De_quelle_s__couleur_s__sont_les_gilets_jaunes___Plonger_des_publications_Facebook_dans_un_espace_id_ologique_latent.pdf">french article</a>] [<a href="{{site.baseurl}}/files/publications/2021_SS_CR__EV__De_quelle_s__couleur_s__sont_les_gilets_jaunes___Plonger_des_publications_Facebook_dans_un_espace_id_ologique_latent.pdf">english article</a>] 
 
 
 ## Articles submitted, pending revision
@@ -74,7 +74,7 @@ Publications
 ### Articles published in peer-reviewed journals
 
   * Ramaciotti Morales, P., Lamarche-Perrin, R., Fournier-S'niehotta, R., Poulain, R., Tabourier, L. and Tarissan, F. "Measuring Diversity in Heterogeneous Information Networks." Theoretical Computer Science, 2021. 
-  [<a href="{{site.baseurl}}/files/publications/2020_tcs.pdf">preprint</a>]
+  [<a href="{{site.baseurl}}/files/publications/2021_tcs.pdf">article</a>]
   * Ramaciotti, Pedro, and Jean-Claude Nédélec. "About some boundary integral operators on the unit disk related to the Laplace equation." SIAM Journal on Numerical Analysis 55, no. 4 (2017): 1892-1914. [<a href="{{site.baseurl}}/files/publications/2017_about_some_integral_operators.pdf">article</a>]
   * Escarate, P., R. Hein, M. Duran, and P. Ramaciotti. "X-ray fluorescence spectroscopy for accurate copper estimation." Minerals Engineering 71 (2015): 13-15. [<a href="{{site.baseurl}}/files/publications/2015_x_ray_espectroscopy.pdf">article</a>]
   * Pérez-Arancibia, Carlos, Pedro Ramaciotti, Ricardo Hein, and Mario Durán. "Fast multipole boundary element method for the Laplace equation in a locally perturbed half-plane with a Robin boundary condition." Computer methods in applied mechanics and engineering 233 (2012): 152-163. [<a href="{{site.baseurl}}/files/publications/2012_fast_multipole_methods_Laplace_robin.pdf">article</a>]
